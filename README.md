@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kuanghy2320
-- 👀 I’m interested in Seismic imaging and Deep learning
+- 👋 Hi, I’m @kuanghy2320.
+- 👀 I’m interested in Seismic imaging and Deep learning.
 - 🌱 I’m currently learning several geophysical methods and neural network model architectures.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on the interdisciplinary research combining geophysics and artificial intelligence.
 - 📫 How to reach me: kuanghy2320@gmal.com or hongying.kuang@kaust.edu.sa
 
 <!---
